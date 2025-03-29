@@ -1,2 +1,1 @@
-# GO-LANG-IMPL
-This the golang implementation of fluentix (WIP)
+Fluentix Implementation in GO (WIP)
